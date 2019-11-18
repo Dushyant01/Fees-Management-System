@@ -1,0 +1,25 @@
+SMAP
+viewaccountant1_jsp.java
+JSP
+*S JSP
+*F
++ 0 viewaccountant1.jsp
+viewaccountant1.jsp
++ 1 links.html
+links.html
++ 2 background.html
+background.html
+*L
+5,8:55
+1#1,89:62
+12#0,32:150
+1#2,19:182
+43#0,2:200
+46,6:204
+51:210
+52:211,11
+53:222,7
+54,3:229
+56:231,2
+57,4:233
+*E

@@ -1,0 +1,108 @@
+*{
+
+    padding: 0px;
+    margin: 0px;
+    scroll-behavior: smooth;
+    transition: .3s ease-in-out;
+    animation: 2s fadein;
+    text-shadow: 1px 1px 1px black;
+
+}
+
+@keyframes fadein{
+
+    from{opacity: 0;}
+    to{opacity: 1;}
+
+}
+
+.header-inside{
+
+    text-align: center;
+    color: #fff;
+    margin: 0px;
+    height: 660px;
+    padding-top: 100px;
+    cursor: default;
+    background-image: url(images/Blur-Wallpapers-28-2560-x-1600.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+
+}
+
+#header{
+    
+    height: 100%;
+    
+}
+
+h1{
+
+    font-size: 100px;
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 0px;
+    padding: 0px;
+    text-shadow: 2px 5px .5px black;
+
+}
+
+h2{
+
+    font-size: 25px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    line-height: 4.5em;
+    text-shadow: 1px 2px 2px black;
+
+}
+
+h3{
+    
+    font-size: 35px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: bold;
+    
+}
+
+h4{
+    
+    font-size: 25px;
+    
+    
+}
+
+.components-holder a{
+    
+    color: #fff;
+    
+}
+
+.components-holder a:hover{
+    
+    color: black;
+    text-decoration: none;
+    
+}
+
+.components-holder{
+    
+    height: 250px;
+    margin-top: 50px;
+    
+}
+
+.inside-admin, .inside-accountant{
+    
+    float: left;
+    width: 50%;
+    padding: 90px;
+    
+}
+
+.inside-admin{
+    
+    border-right: 1px solid black;
+    
+}
